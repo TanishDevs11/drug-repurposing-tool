@@ -33,7 +33,7 @@ RepurposAI/
 
 Fork the repository and pick tasks from the GitHub Epic (#9).
 
-Implement placeholder modules in /app and /app/utils.
+Implement placeholder modules in #/app and #/app/utils.
 
 Add sample notebooks in /notebooks to test modules.
 
