@@ -15,19 +15,20 @@ RepurposAI/
 ├── requirements.txt
 ├── .gitignore
 ├── app/
-│   ├── main.py                 # Streamlit main app
-│   ├── dashboard.py            # Dashboard assembly module
-│   ├── visualization.py        # Plotly/Seaborn visualization module
+│   ├── main.py              # Streamlit main app
+│   ├── dashboard.py         # Dashboard assembly module
+│   ├── visualization.py     # Plotly/Seaborn visualization module
 │   └── utils/
-│       └──similarity.py        # Drug-target similarity functions
+│       └── similarity.py    # Drug-target similarity functions
 ├── backend/
-│   ├── data_cleaning.py        # Data preprocessing
-│   └── repurposing_logic.py    # Drug repurposing scoring & analysis
-├── data/                       # Sample Excel/CSV datasets
-├── docs/                       # README, usage guide, hackathon slides
-├── tests/                      # Test scripts for backend/utility functions
-└── notebooks/                  # Jupyter notebooks for testing 
+│   ├── data_cleaning.py     # Data preprocessing
+│   └── repurposing_logic.py # Drug repurposing scoring & analysis
+├── data/                     # Sample Excel/CSV datasets
+├── docs/                     # README, usage guide, hackathon slides
+├── tests/                    # Test scripts for backend/utility functions
+└── notebooks/
     └── example_notebook.ipynb
+
 
 ## Hackathon Steps: 
 
