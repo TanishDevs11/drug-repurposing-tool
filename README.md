@@ -15,7 +15,6 @@ RepurposAI/
 ├── requirements.txt
 ├── .gitignore
 ├── app/
-|   ├── .gitkeep 
 │   ├── main.py                 # Streamlit main app
 │   ├── dashboard.py            # Dashboard assembly module
 │   ├── visualization.py        # Plotly/Seaborn visualization module
